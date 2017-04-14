@@ -16,7 +16,7 @@ function listen () {
 
 function play () {
   const head = document.getElementById('head')
-  const history = run('Too young, too simple. Sometimes, naive.').history
+  const history = run('What Does Not Kill You Just Makes You Better.').history
   isRunning = true;
   let i = 0;
   history.forEach((text, i) => {

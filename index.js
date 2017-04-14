@@ -77,7 +77,7 @@
 
 	function play() {
 	  var head = document.getElementById('head');
-	  var history = (0, _gen2.default)('What does not kill you just makes you better.').history;
+	  var history = (0, _gen2.default)('What Does Not Kill You Just Makes You Better.').history;
 	  isRunning = true;
 	  var i = 0;
 	  history.forEach(function (text, i) {
